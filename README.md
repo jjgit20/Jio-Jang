@@ -11,4 +11,4 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
 
 
-[![Jio's GitHub stats](https://github.com/jjgit20.vercel.app/api?username=jio-jang)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/jjgit20)https://github.com/jjgit20)
+[![Jio's GitHub stats](https://github.com/jjgit20.vercel.app/api?username=jio-jang)](https://github.com/jjgit20)
