@@ -5,6 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white)
-![Rhino](https://img.shields.io/badge/Rhino-801010.svg?&style=for-the-badge&logo=Rhino&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Rhino](https://img.shields.io/badge/rhinoceros-801010.svg?&style=for-the-badge&logo=rhinoceros&logoColor=white)
 ![Ai](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
