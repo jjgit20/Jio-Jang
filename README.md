@@ -7,4 +7,4 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white)
 ![Rhino](https://img.shields.io/badge/Rhino-801010.svg?&style=for-the-badge&logo=Rhino&logoColor=white)
-![Ai](https://img.shields.io/badge/Ai-FF9A00.svg?&style=for-the-badge&logo=Ai&logoColor=white)
+![Ai](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
