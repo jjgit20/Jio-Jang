@@ -9,3 +9,6 @@
 ![Rhino](https://img.shields.io/badge/rhinoceros-801010.svg?&style=for-the-badge&logo=rhinoceros&logoColor=white)
 ![Ai](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+
+
+[![Jio's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
