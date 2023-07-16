@@ -12,7 +12,7 @@
 
 
 [![Jio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jio&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jj21779168/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jj21779168)](https://solved.ac/jj21779168/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
